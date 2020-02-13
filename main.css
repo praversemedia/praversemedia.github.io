@@ -1,0 +1,25 @@
+#textLogo {
+  width: 100vw;
+}
+
+@media only screen and (max-width: 600px) {
+  #textLogo {
+    opacity: 1;
+    margin-top: 33vh;
+    margin-bottom: 60%;
+    width: 100vw;
+  }
+  #placeholder {
+    opacity: 1;
+    margin-top: 33vh;
+    margin-bottom: 60%;
+    width: 100vw;
+  }
+  #Sect1 {
+    height: 100vh;
+  }
+  #Sect2 {
+    height: 100vh;
+  }
+}
+/*# sourceMappingURL=main.css.map */
